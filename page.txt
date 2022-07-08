@@ -1,2 +1,0 @@
-{'NUMERO': '4024', 'SEDE/ ANEXO': 'SEDE', 'CUE': '5000765', 'NOMBRE': 'BELLAS ARTES', 'TURNOS': 'Mañana,Tarde', 'TELÉFONO': '0261-4238517', 'DOMICILIO': 'P. MENDOCINAS Y PEDRO MOLINA S/N', 'DEPARTAMENTO': 'CAPITAL', 'AMBITO': 'Urbano', 'SUPERVISION': '01 - Secundario Orientado', 'REGIONAL': 'NO CORRESPONDE', 'NIVEL': 'Secundario Orientado', 'GESTIÓN': 'Pública', '': 'Ver'}
-
