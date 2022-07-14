@@ -1,1 +1,2 @@
 # https://articulo.mercadolibre.com.ar/MLA-870181368-porta-patente-mercosur-motos-portapatente-sobre-c-tornillos-_JM#reco_item_pos=2&reco_backend=machinalis-domain-pads-hybrid-draper-brothers&reco_backend_type=low_level&reco_client=vip-pads-related&reco_id=ffc7084f-b87f-4715-a1c7-4b97a492d692&is_advertising=true&ad_domain=VIPCORE_RELATED&ad_position=3&ad_click_id=ZjY0NDQ1ZjAtNTlmZS00ZjFhLWFhNGMtOWUxNzVmZjc4MmRi
+# newlist = [expression for item in iterable if condition == True]
